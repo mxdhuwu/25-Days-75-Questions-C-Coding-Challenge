@@ -8,7 +8,10 @@ Every day for the next 25 days, you will be presented with a coding task or prob
 
 Materials Used :
 
-C Language : I used the C programming language to solve these challenges.
-Questions References : https://www.programiz.com/c-programming/examples
-Github : All my code solutions and progress are documented in this Github repository.
-Linkedin : You can find a detailed post about my experience on my Linkedin profile.
+1. C Language : I used the C programming language to solve these challenges.
+
+2. Questions References : https://www.programiz.com/c-programming/examples
+
+3. Github : All my code solutions and progress are documented in this Github repository.
+
+4. Linkedin : You can find a detailed post about my experience on my Linkedin profile.
